@@ -1,4 +1,4 @@
-package bean;
+package com.berkozmen.bean;
 
 import lombok.Getter;
 import lombok.Setter;

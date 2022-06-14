@@ -1,4 +1,4 @@
-package tutorials;
+package com.berkozmen.tutorials;
 
 import java.util.Arrays;
 
